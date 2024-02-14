@@ -1,6 +1,6 @@
 p This program is equivalent to z=x^y, where the user can input x and y
 /Note: it actually is equivalent to (z*=x)*y, where z is set to 1 at the beginning\
-p It uses the mulx-operator and the loop-operator
+p It uses the zmulx-operator and the loop-operator
 
 p Please give x an int value:
 rx
