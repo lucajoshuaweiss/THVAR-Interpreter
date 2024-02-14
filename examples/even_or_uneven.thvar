@@ -1,0 +1,17 @@
+p This program will determine if a number is even or uneven via the %-operator
+
+p
+p Please give x an int value:
+rx
+
+y 2
+
+%
+
+p
+
+zeq0 The number is even
+
+zeq1 The number is uneven
+
+exit

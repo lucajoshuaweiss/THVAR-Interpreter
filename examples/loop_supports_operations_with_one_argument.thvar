@@ -1,0 +1,5 @@
+p This uses the loop-operator with the p-operator to show that the loop-operator supports using operators with one argument
+p
+loop 4
+p This will be printed 4 times
+exit

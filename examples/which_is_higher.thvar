@@ -1,0 +1,17 @@
+p Please give x an int value:
+
+rx
+
+p
+p Please give y an int value:
+
+ry
+
+>
+
+p
+zeq0 The first number is bigger
+zeq1 The second number is bigger
+zeqerror Both numbers are equal
+
+exit

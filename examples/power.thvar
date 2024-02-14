@@ -1,0 +1,20 @@
+p This program is equivalent to z=x^y, where the user can input x and y
+/Note: it actually is equivalent to (z*=x)*y, where z is set to 1 at the beginning\
+p It uses the mulx-operator and the loop-operator
+
+p Please give x an int value:
+rx
+p Please give y an unsigned value:
+ry
+
+/The reason for the unsigned value is that if the user uses 0 or a
+ negative number the loop will be skipped and zmulx will only be run once\
+
+loop y 
+zmulx
+
+
+p The result is:
+res
+
+exit

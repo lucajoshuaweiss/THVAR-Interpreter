@@ -1,0 +1,14 @@
+p This program is equivalent to z=x+y, where the user can input x and y
+/Note: it actually is equivalent to z+=x+y, but since we only use the +-operator once this fact can be ignored\
+
+p Please give x an int value:
+rx
+p Please give y an int value:
+ry
+
++
+
+p The result is:
+res
+
+exit
