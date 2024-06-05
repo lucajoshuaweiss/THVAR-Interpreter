@@ -10,8 +10,8 @@ ry
 >
 
 p
-zeq0 The first number is bigger
-zeq1 The second number is bigger
+zeq0 The first number is larger
+zeq1 The second number is larger
 zeqerror Both numbers are equal
 
 exit
