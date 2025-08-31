@@ -1,4 +1,4 @@
-"""
+r"""
  -------------------------------------------------
 |       Interpreter of the computer language      |              
 |                      THVAR                      |
@@ -33,7 +33,7 @@ else:
      exit()
      
 
-"""
+r"""
 
  _____          _                         
 |_   _|  ___   | |  _    ____   _    _   _   _____   ____   _  _
@@ -67,7 +67,7 @@ for line in lines_of_file:
         program.append(words)                       #appends all words to program list
 
 
-"""
+r"""
 
  _             _                                          _
 | |  _    _  _| |_    ____   _  _   ___   _  _   ____   _| |_    ____   _  _ 
